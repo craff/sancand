@@ -1,121 +1,277 @@
-Creative Commons Legal Code
+SANCAND LICENCE (Source Available Non Commercial And Non Derivative Licence)
 
-CC0 1.0 Universal
-
-    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
-    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
-    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
-    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
-    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
-    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
-    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
-    HEREUNDER.
+    THIS INFORMATION IS PROVIDED ON AN "AS-IS" BASIS. THE AUTHOR(S) OF THIS
+    LICENCE MAKE NO WARRANTIES REGARDING THE USE OF THIS DOCUMENT OR THE
+    INFORMATION OR WORKS PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR
+    DAMAGES RESULTING FROM THE USE OF THIS DOCUMENT OR THE INFORMATION OR
+    WORKS PROVIDED HEREUNDER.
 
 Statement of Purpose
 
 The laws of most jurisdictions throughout the world automatically confer
-exclusive Copyright and Related Rights (defined below) upon the creator
-and subsequent owner(s) (each and all, an "owner") of an original work of
-authorship and/or a database (each, a "Work").
+exclusive Copyright and Related Rights (defined below) upon the creator and
+subsequent owner(s) (each and all, an "owner") of an original software
+application or library as well as the data and numerical material that are
+distributed with the software.
 
-Certain owners wish to permanently relinquish those rights to a Work for
-the purpose of contributing to a commons of creative, cultural and
-scientific works ("Commons") that the public can reliably and without fear
-of later claims of infringement build upon, modify, incorporate in other
-works, reuse and redistribute as freely as possible in any form whatsoever
-and for any purposes, including without limitation commercial purposes.
-These owners may contribute to the Commons to promote the ideal of a free
-culture and the further production of creative, cultural and scientific
-works, or to gain reputation or greater distribution for their Work in
-part through the use and efforts of others.
+This licence was initiated to protect the right (and copyright) and allow a
+just remuneration of software's authors. In particular authors that work on
+their spare time or are granted time to work on source available software by
+their company.
 
-For these and/or other purposes and motivations, and without any
-expectation of additional consideration or compensation, the person
-associating CC0 with a Work (the "Affirmer"), to the extent that he or she
-is an owner of Copyright and Related Rights in the Work, voluntarily
-elects to apply CC0 to the Work and publicly distribute the Work under its
-terms, with knowledge of his or her Copyright and Related Rights in the
-Work and the meaning and intended legal effect of CC0 on those rights.
+This licence also enforces some rules about the evolution of the list of authors
+for tow purposes:
+- securing the future of the software by enforcing decision rules.
+- securing company's or commercial organisation that would buy the right to
+  use the software under this licence.
 
-1. Copyright and Related Rights. A Work made available under CC0 may be
+This licence is only applicable to software that makes all there source and
+data available (a.k.a. source available software). This is because these
+software can be examined for malware by anyone.
+
+For these and/or other purposes and motivations, and without any expectation
+of additional consideration or compensation, the authors associating SANCAND
+with a software, to the extent that he or she is an owner of Copyright and
+Related Rights in the software, voluntarily elects to apply SANCAND to the
+software and publicly distribute the software under its terms, with knowledge
+of his or her Copyright and Related Rights in the SANCAND and the meaning and
+intended legal effect of SANCAND on those rights.
+
+0. Definitions
+
+  i. Software: this include all material: source code, images, video, sound,
+     ...  distributed together and constituting the work protected by this
+     SANCAND LICENCE. We assume (but do not enforce) that the software is
+     managed using some dedicated software such as git, darcs, ...
+
+  ii. Commit: a contribution to the software that do modify the material covered
+     by SANCAND.
+
+  iii. Contributor: an individual that contributed a commit and modified the
+     software, even it the contribution has been completely replaced by more
+     recent commit. Contributor must be individual (not company) that are the
+     original author of the commit. Contributors are the copyright holder and
+     are entitled the right to enforce the application of this licence.
+
+  iv. Author: a potential benificiary of a commercial contract. They must
+     contributors. But not all contributors need to be author. An author may become
+     at any time a simple contributor following the rule of chapter 2 below.
+
+  v. Supervisor: some of the authors that are entitled to take decision about
+     the software using the rules defined below. Contributors and authors
+     which are not supervisors grant to the supervisors all power of decisions
+     about the evolution of the software, its licencing and selling permission
+     to use to profitable organisation. As such Contributors and Authors that
+     are not supervisor can not be held responsible for any action or decision
+     regarding the software protected by SANCAND.
+
+  vi. Commercial organisation: any entity, company or individual that sells
+     some product or services directly of indirectly or that makes profit.
+
+1. Copyright and Related Rights. A software made available under SANCAND is
 protected by copyright and related or neighboring rights ("Copyright and
-Related Rights"). Copyright and Related Rights include, but are not
-limited to, the following:
+Related Rights"). The following right are granted for software under SANCAND
+to anyone:
 
-  i. the right to reproduce, adapt, distribute, perform, display,
-     communicate, and translate a Work;
- ii. moral rights retained by the original author(s) and/or performer(s);
-iii. publicity and privacy rights pertaining to a person's image or
-     likeness depicted in a Work;
- iv. rights protecting against unfair competition in regards to a Work,
-     subject to the limitations in paragraph 4(a), below;
-  v. rights protecting the extraction, dissemination, use and reuse of data
-     in a Work;
- vi. database rights (such as those arising under Directive 96/9/EC of the
-     European Parliament and of the Council of 11 March 1996 on the legal
-     protection of databases, and under any national implementation
-     thereof, including any amended or successor version of such
-     directive); and
-vii. other similar, equivalent or corresponding rights throughout the
-     world based on applicable law or treaty, and any national
-     implementations thereof.
+  i. the right to download, compile and test the software.
 
-2. Waiver. To the greatest extent permitted by, but not in contravention
-of, applicable law, Affirmer hereby overtly, fully, permanently,
-irrevocably and unconditionally waives, abandons, and surrenders all of
-Affirmer's Copyright and Related Rights and associated claims and causes
-of action, whether now known or unknown (including existing as well as
-future claims and causes of action), in the Work (i) in all territories
-worldwide, (ii) for the maximum duration provided by applicable law or
-treaty (including future time extensions), (iii) in any current or future
-medium and for any number of copies, and (iv) for any purpose whatsoever,
-including without limitation commercial, advertising or promotional
-purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
-member of the public at large and to the detriment of Affirmer's heirs and
-successors, fully intending that such Waiver shall not be subject to
-revocation, rescission, cancellation, termination, or any other legal or
-equitable action to disrupt the quiet enjoyment of the Work by the public
-as contemplated by Affirmer's express Statement of Purpose.
+ ii. the right to use the software for a non commercial organisation or for
+     private use.
 
-3. Public License Fallback. Should any part of the Waiver for any reason
-be judged legally invalid or ineffective under applicable law, then the
-Waiver shall be preserved to the maximum extent permitted taking into
-account Affirmer's express Statement of Purpose. In addition, to the
-extent the Waiver is so judged Affirmer hereby grants to each affected
-person a royalty-free, non transferable, non sublicensable, non exclusive,
-irrevocable and unconditional license to exercise Affirmer's Copyright and
-Related Rights in the Work (i) in all territories worldwide, (ii) for the
-maximum duration provided by applicable law or treaty (including future
-time extensions), (iii) in any current or future medium and for any number
-of copies, and (iv) for any purpose whatsoever, including without
-limitation commercial, advertising or promotional purposes (the
-"License"). The License shall be deemed effective as of the date CC0 was
-applied by Affirmer to the Work. Should any part of the License for any
-reason be judged legally invalid or ineffective under applicable law, such
-partial invalidity or ineffectiveness shall not invalidate the remainder
-of the License, and in such case Affirmer hereby affirms that he or she
-will not (i) exercise any of his or her remaining Copyright and Related
-Rights in the Work or (ii) assert any associated claims and causes of
-action with respect to the Work, in either case contrary to Affirmer's
-express Statement of Purpose.
+iii. the right to test the software for a commercial organisation. Testing
+     means that the use of the software is not involved in the activity of the
+     company.  This implies (but is not limited to) that testing the
+     software do not increase the sells, the visibility or the profit
+     of the company.
+
+ iv. commercial company are allowed (and encouraged) to contact the
+     supervisor(s) to buy the right to use the software.
+
+  v. Contributors (or potential contributor) are granted the right to use the
+     software and modify it privately. They are only allowed to submit commit
+     to the supervisor or exchange modification between contributors. All
+     modifications made public by another way is forbidden by this
+     SANCAND. Commit that were not accepted by the supervisor(s) may or may not
+     be left available for the public, this is the responsability of the
+     supervisor to take the decision to erase a rejected commit.
+
+ vi. These are the only right granted by this licence. Distributing modified
+     version of the software it not permitted in any cases.
+
+2. Managment of the software.
+
+  i. All authors are attributed a "share" of the software. This share is a
+     rational number between 0 and 1. The sum of all shares must sum to one.
+     The list of authors must be written at the end of the file. Shares are
+     written using only the following characters : "0123456789/.%", with their
+     usual meaning in mathematics ("%" means divided by one hundred).
+
+ ii. Supervisor are marked with an asterisk in the list of authors like:
+
+     - John Smith (*) 15%.
+
+     The sum of the shares of all supervisors must be greater or equal to one
+     half (1/2 = 0.5).
+
+iii. when the share of an author are increased to a value decided by the
+     supervisors (which also happens when a contributor becomes author), the
+     share of other authors are decreased proportionally to their current shares
+     to respect rule (i.).
+
+     if this does not respect rule (ii.) some author must be promotted to
+     supervisor, or less share must be given to the author.
+
+     Example if the current authors are:
+       - John Smith (*) 40%
+       - Anna Smith (*) 30%
+       - Paul Smith     30%
+     and if John and Anne decide to grant 20% share to Emie Smith as a new
+     supervisor, the list of authors will become
+       - John Smith (*) 32%
+       - Anna Smith (*) 24%
+       - Emie Smith (*) 20%
+       - Paul Smith     24%
+
+ iv. All decisions about the software are taken by a simple majority among
+     supervisors, with vote proportional to their shares. The decision that can
+     be taken includes (but are not limited to):
+
+     - accepting commit from contributors
+
+     - deciding/changing simpler rules regarding commit acceptation (for
+       instance but not limited to allowing a commit as soon as one (or two)
+       supervisors agree).
+
+     - accepting new authors of the software. They decide how many shares the
+       new author will have and apply the rule iii.  above.
+
+     - increasing the share of an author following rule (iii.)
+
+     - promoting an author to supervisor (which may be mandatory because of
+       rule (iii.)
+
+     - selling the right to use the software to commercial organisation (see chapter
+       3 below).
+
+  iv. Supervisors can not remove an authors or supervisors from the list below
+      nor decrease their share except when using rule (iii.). However, a
+      supervisor may decide to become an author and keep is share. If this
+      violates rule ii. The minimum parts of his share are distributed among
+      supervisors proportionally to their shares so that rule ii. is
+      respected.
+
+   v. Similarly an author can decide to become a simple contributor and its
+      share are shared among the remaining authors proportionaly to their
+      shares. If a supervisor decides to become a contributor, the computation
+      of the shares must be made using first rule (iv) and then rule (v).
+
+  vi. In the case where a supervisor can not anymore participate to the decisions
+      about the software or in the case of the death of an author there are 2 rules
+      to follow:
+
+      - death: once the death of an author is established by the existing
+        legal means, rule (iv) and (v) are applied. This means that share are
+        not transmissible to your heir as they do not constitute an ownership
+        for two reasons:
+        . only contributors can have share in the software
+	. this licence do not permit owning or selling of the software itself
+
+      - incapacity of long duration or impossibility to contact a supervisor
+        (more than 6 weeks): rule (iv) will be applied and the supervisor will
+        become an author, but the former supervisor will automatically
+        recover, if he asks for it, its status of supervisor as soon as he
+        contacts one of the other supervisors. His share will be computed as if
+        he had remained supervisor, using the above rules. This implies
+        that the history of application of rules that modifies share must be kept,
+        preferably within the software files to replay them.
+
+      - in case of conflict about the "capacity" or the "impossibility to
+        contact" a supervisor, the local law must be applied to reach a
+        decision among supervisors.
+
+
+  vi. If the software looses all his supervisors, it will become Open Source
+      software. The last surpervisor(s) may choose a free software licence, if
+      they do not do so, the software will be distributed under the current
+      version of the GPL LICENCE and/or LGPL LICENCE, the former applied to
+      all software applications within the software and the latter applied to
+      software libraries among the software. The copyright will still be granted to
+      all contributors of the software.
+
+3. Rules about commercial contracts / share are not property of the software
+
+   i. The software under SANCAND or part of it can not be sold in any cases,
+      nor destroyed.  The supervisor must take reasonable measures to ensure
+      the security of the software files. For instance (but no limited to):
+      ensure local copies in the author's computers and some cloud storage.
+
+  ii. Commercial contract that would grant exclusivity of use of the software
+      or any form of restriction for later contract are not permitted by this
+      licence (they would be equivalent to selling the software).
+
+ iii. Contract can only grant to commercial organisation the right to use the
+      software, which include the right to modify it but not the right to
+      distribute these modifications. They are contract between the commercial
+      organisation and the authors of the software at the time the contract is
+      signed. The financial counterpart of the contract must be shared among
+      authors proportionaly to their share at the time the contract is signed.
+
+      If a contract is renewable, or if it enforces regular payments, it must
+      be redacted to specify that these payments are done to the authors at
+      the date of the payment, proportionally to their shares.
+
+      This means that authors do not own the software, but they are entitled
+      right in the future contract about the software, according to their
+      share. This is not property of the software because an author can not
+      sell, destroy nor damage the software without violating this licence,
+      and property of a thing if often defined as the ability to sell and
+      destroy the thing.
+
+      No other form of payment are permitted by this licence regarding the
+      grant to use the software: all payment must be done to all authors at
+      the date of the payment, proportionally to their share.
+
+      This does not prevent authors or contributors to have individual contract
+      around the software for instance (but not limited to)
+      - selling formation
+      - developing extension of the software for specific use of the
+        commercial organisation (that may or may not be contributed to the
+        software).
+
+  iv. Author can not sell, transmit or give their shares or part of their
+      share of the software to anyone.
+
+   v. Contributor grant the right to sign contract on their behalf to the
+      supervisors. Supervisors must follow the above majority rule for
+      decision. However, enough time and information must be given to all
+      authors to allow them to leave the project according to the chapter 2 if
+      they do not agree to the term of the contract. The list of authors used
+      in the contract must be established after this reasonable time has
+      expired.
 
 4. Limitations and Disclaimers.
 
- a. No trademark or patent rights held by Affirmer are waived, abandoned,
+ a. No trademark or patent rights held by Contributors are waived, abandoned,
     surrendered, licensed or otherwise affected by this document.
- b. Affirmer offers the Work as-is and makes no representations or
-    warranties of any kind concerning the Work, express, implied,
+ b. Contributors offers the software as-is and makes no representations or
+    warranties of any kind concerning the software, express, implied,
     statutory or otherwise, including without limitation warranties of
     title, merchantability, fitness for a particular purpose, non
     infringement, or the absence of latent or other defects, accuracy, or
     the present or absence of errors, whether or not discoverable, all to
     the greatest extent permissible under applicable law.
- c. Affirmer disclaims responsibility for clearing rights of other persons
-    that may apply to the Work or any use thereof, including without
-    limitation any person's Copyright and Related Rights in the Work.
-    Further, Affirmer disclaims responsibility for obtaining any necessary
+ c. Contract to commercial organisation may include some warranties for the
+    software. But those are granted by the contract, not by this Licence.
+ d. Contributors disclaims responsibility for clearing rights of other persons
+    that may apply to the software or any use thereof, including without
+    limitation any person's Copyright and Related Rights in the software.
+    Further, Contributors disclaims responsibility for obtaining any necessary
     consents, permissions or other rights required for any use of the
-    Work.
- d. Affirmer understands and acknowledges that Creative Commons is not a
-    party to this document and has no duty or obligation with respect to
-    this CC0 or use of the Work.
+    software.
+
+Thanks: this licence borrow some paragraphs to the creative common licence.
+
+LIST OF CURRENT AUTHORS (date: )
+-
+-
+-
