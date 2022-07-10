@@ -117,11 +117,11 @@ iii. the right to test the software for a commercial organisation. Testing
 
 iii. when the share of an author are increased to a value decided by the
      supervisors (which also happens when a contributor becomes author), the
-     share of other authors are decreased proportionally to their current shares
+     share of other authors are decreased proportionally to their current share
      to respect rule (i.).
 
      if this does not respect rule (ii.) some author must be promotted to
-     supervisor, or less share must be given to the author.
+     supervisor, or a smaller share must be given to the author.
 
      Example if the current authors are:
        - John Smith (*) 40%
@@ -135,7 +135,7 @@ iii. when the share of an author are increased to a value decided by the
        - Paul Smith     24%
 
  iv. All decisions about the software are taken by a simple majority among
-     supervisors, with vote proportional to their shares. The decision that can
+     supervisors, with vote proportional to their share. The decision that can
      be taken includes (but are not limited to):
 
      - accepting commit from contributors
@@ -144,10 +144,12 @@ iii. when the share of an author are increased to a value decided by the
        instance but not limited to allowing a commit as soon as one (or two)
        supervisors agree).
 
-     - accepting new authors of the software. They decide how many shares the
-       new author will have and apply the rule iii.  above.
+     - accepting new authors of the software. They decide how many share the
+       new author will have and apply the rule (iii.) above.
 
-     - increasing the share of an author following rule (iii.)
+     - increasing the share of an author following rule (iii.). If the share
+       of a surpervisor is increased, he does not take part to the voting for
+       this decision.
 
      - promoting an author to supervisor (which may be mandatory because of
        rule (iii.)
@@ -155,16 +157,16 @@ iii. when the share of an author are increased to a value decided by the
      - selling the right to use the software to commercial organisation (see chapter
        3 below).
 
-  iv. Supervisors can not remove an authors or supervisors from the list below
+  iv. Supervisors can not remove an author or supervisor from the list below
       nor decrease their share except when using rule (iii.). However, a
       supervisor may decide to become an author and keep is share. If this
-      violates rule ii. The minimum parts of his share are distributed among
-      supervisors proportionally to their shares so that rule ii. is
+      violates rule (ii.) The minimum parts of his share are distributed among
+      supervisors proportionally to their share so that rule (ii.) is
       respected.
 
    v. Similarly an author can decide to become a simple contributor and its
-      share are shared among the remaining authors proportionaly to their
-      shares. If a supervisor decides to become a contributor, the computation
+      share his shared among the remaining authors proportionaly to their
+      share. If a supervisor decides to become a contributor, the computation
       of the shares must be made using first rule (iv) and then rule (v).
 
   vi. In the case where a supervisor can not anymore participate to the decisions
@@ -172,7 +174,7 @@ iii. when the share of an author are increased to a value decided by the
       to follow:
 
       - death: once the death of an author is established by the existing
-        legal means, rule (iv) and (v) are applied. This means that share are
+        legal means, rule (iv) and (v) are applied. This means that your share are
         not transmissible to your heir as they do not constitute an ownership
         for two reasons:
         . only contributors can have share in the software
@@ -200,7 +202,7 @@ iii. when the share of an author are increased to a value decided by the
       software libraries among the software. The copyright will still be granted to
       all contributors of the software.
 
-3. Rules about commercial contracts / share are not property of the software
+3. Rules about commercial contracts & share are not property of the software
 
    i. The software under SANCAND or part of it can not be sold in any cases,
       nor destroyed.  The supervisor must take reasonable measures to ensure
@@ -216,11 +218,11 @@ iii. when the share of an author are increased to a value decided by the
       distribute these modifications. They are contract between the commercial
       organisation and the authors of the software at the time the contract is
       signed. The financial counterpart of the contract must be shared among
-      authors proportionaly to their share at the time the contract is signed.
+      authors proportionally to their share at the time the contract is signed.
 
       If a contract is renewable, or if it enforces regular payments, it must
       be redacted to specify that these payments are done to the authors at
-      the date of the payment, proportionally to their shares.
+      the date of the payment, proportionally to their share.
 
       This means that authors do not own the software, but they are entitled
       right in the future contract about the software, according to their
@@ -240,7 +242,7 @@ iii. when the share of an author are increased to a value decided by the
         commercial organisation (that may or may not be contributed to the
         software).
 
-  iv. Author can not sell, transmit or give their shares or part of their
+  iv. Author can not sell, transmit or give their share or part of their
       share of the software to anyone.
 
    v. Contributor grant the right to sign contract on their behalf to the
