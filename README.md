@@ -1,1 +1,1 @@
-# safeDb
+# sancand is a software licence. 
