@@ -19,9 +19,9 @@ authors for two purposes:
 - securing company's or commercial organisation that would buy the right to
   use the software under this licence.
 
-This licence is only applicable to software that makes all there source and
-data available (a.k.a. source available software). This is because these
-software can be examined for malware by anyone.
+This licence is only applicable to software that makes all their source and
+data available (a.k.a. source available software), allowing examination for
+malware or security issue by anyone.
 
 For these and/or other purposes and motivations, and without any expectation
 of additional consideration or compensation, the authors associating SANCAND
@@ -32,15 +32,16 @@ of his or her Copyright and Related Rights in the SANCAND and the meaning and
 intended legal effect of SANCAND on those rights.
 
 Author adopting SANCAND must agree with the fact that it limits their
-copyright, because SANCAND prohibit selling, transmisting, destruction or
+copyright, because SANCAND prohibit selling, transmittion, destruction or
 damaging the software protected by SANCAND.
 
 0. Definitions
 
   i. Software: this include all material: source code, images, video, sound,
-     ...  distributed together and constituting the work protected by this
-     SANCAND LICENCE. We assume (but do not enforce) that the software is
-     managed using some dedicated software such as git, darcs, ...
+     and any other numerical data distributed together and constituting the
+     work protected by this SANCAND LICENCE. We assume (but do not enforce)
+     that the software is managed using some dedicated software such as git,
+     or darcs.
 
   ii. Commit: a contribution to the software that do modify the material
      covered by SANCAND.
