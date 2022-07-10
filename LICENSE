@@ -8,19 +8,13 @@ SANCAND LICENCE (Source Available Non Commercial And Non Derivative Licence)
 
 Statement of Purpose
 
-The laws of most jurisdictions throughout the world automatically confer
-exclusive Copyright and Related Rights (defined below) upon the creator and
-subsequent owner(s) (each and all, an "owner") of an original software
-application or library as well as the data and numerical material that are
-distributed with the software.
-
 This licence was initiated to protect the right (and copyright) and allow a
 just remuneration of software's authors. In particular authors that work on
 their spare time or are granted time to work on source available software by
 their company.
 
-This licence also enforces some rules about the evolution of the list of authors
-for tow purposes:
+This licence also enforces some rules about the evolution of the list of
+authors for two purposes:
 - securing the future of the software by enforcing decision rules.
 - securing company's or commercial organisation that would buy the right to
   use the software under this licence.
@@ -37,6 +31,10 @@ software and publicly distribute the software under its terms, with knowledge
 of his or her Copyright and Related Rights in the SANCAND and the meaning and
 intended legal effect of SANCAND on those rights.
 
+Author adopting SANCAND must agree with the fact that it limits their
+copyright, because SANCAND prohibit selling, transmisting, destruction or
+damaging the software protected by SANCAND.
+
 0. Definitions
 
   i. Software: this include all material: source code, images, video, sound,
@@ -44,8 +42,8 @@ intended legal effect of SANCAND on those rights.
      SANCAND LICENCE. We assume (but do not enforce) that the software is
      managed using some dedicated software such as git, darcs, ...
 
-  ii. Commit: a contribution to the software that do modify the material covered
-     by SANCAND.
+  ii. Commit: a contribution to the software that do modify the material
+     covered by SANCAND.
 
   iii. Contributor: an individual that contributed a commit and modified the
      software, even it the contribution has been completely replaced by more
@@ -53,20 +51,23 @@ intended legal effect of SANCAND on those rights.
      original author of the commit. Contributors are the copyright holder and
      are entitled the right to enforce the application of this licence.
 
-  iv. Author: a potential benificiary of a commercial contract. They must
-     contributors. But not all contributors need to be author. An author may become
-     at any time a simple contributor following the rule of chapter 2 below.
+  iv. Author: a potential benificiary of a commercial contract. They must be
+     contributors. But not all contributors need to be author. An author may
+     become at any time a simple contributor following the rule of chapter 2
+     below.
 
   v. Supervisor: some of the authors that are entitled to take decision about
      the software using the rules defined below. Contributors and authors
      which are not supervisors grant to the supervisors all power of decisions
      about the evolution of the software, its licencing and selling permission
-     to use to profitable organisation. As such Contributors and Authors that
-     are not supervisor can not be held responsible for any action or decision
+     to use to commercial organisation. As such Contributors and Authors that
+     are not supervisors can not be held responsible for any action or decision
      regarding the software protected by SANCAND.
 
   vi. Commercial organisation: any entity, company or individual that sells
-     some product or services directly of indirectly or that makes profit.
+     some products or services directly or indirectly or that makes profit.
+     A software protected by SANCAND or a similar licence is not a commercial
+     organisation.
 
 1. Copyright and Related Rights. A software made available under SANCAND is
 protected by copyright and related or neighboring rights ("Copyright and
@@ -87,26 +88,36 @@ iii. the right to test the software for a commercial organisation. Testing
  iv. commercial company are allowed (and encouraged) to contact the
      supervisor(s) to buy the right to use the software. If no supervisor
      answers in 6 weeks, one may consider that all supervisors have been
-     lost and the software become open source following rule 2. vii.
+     lost and the software become open source following rule (2. vii.)
 
   v. Contributors (or potential contributor) are granted the right to use the
      software and modify it privately. They are only allowed to submit commit
-     to the supervisor or exchange modification between contributors. All
+     to the supervisor or exchange modifications between contributors. All
      modifications made public by another way is forbidden by this
      SANCAND. Commit that were not accepted by the supervisor(s) may or may not
-     be left available for the public, this is the responsability of the
+     be left available for the public, this is the responsibility of the
      supervisor to take the decision to erase a rejected commit.
 
- vi. These are the only right granted by this licence. Distributing modified
+ vi. Another software, regardless to its own LICENCE, is not considered as a
+     commercial organisation and may use the software protected by SANCAND as
+     an external compenent. By external, we mean that it may use the data and
+     executable which are part of the software or link with library in the
+     software. However, commercial organisation that uses such a software that
+     depends upon the software protected by SANCAND directly or indirectly
+     have to but the right to use the protected software.
+
+
+vii. These are the only rights granted by this licence. Distributing modified
      version of the software it not permitted in any cases.
 
 2. Managment of the software.
 
   i. All authors are attributed a "share" of the software. This share is a
-     rational number between 0 and 1. The sum of all shares must sum to one.
-     The list of authors must be written at the end of the file. Shares are
-     written using only the following characters : "0123456789/.%", with their
-     usual meaning in mathematics ("%" means divided by one hundred).
+     strict positive rational number. The sum of all shares must be equal to
+     one.  The list of authors must be written at the end of this LICENCE
+     file. Shares are written using only the following characters :
+     "0123456789/.%", with their usual meaning in mathematics ("%" means
+     divided by one hundred).
 
  ii. Supervisor are marked with an asterisk in the list of authors like:
 
@@ -115,12 +126,12 @@ iii. the right to test the software for a commercial organisation. Testing
      The sum of the shares of all supervisors must be greater or equal to one
      half (1/2 = 0.5).
 
-iii. when the share of an author are increased to a value decided by the
+iii. When the share of an author is increased to a value decided by the
      supervisors (which also happens when a contributor becomes author), the
-     share of other authors are decreased proportionally to their current share
-     to respect rule (i.).
+     share of other authors are decreased proportionally to their current
+     share to respect rule (i.).
 
-     if this does not respect rule (ii.) some author must be promotted to
+     If this does not respect rule (ii.) some author must be promoted to
      supervisor, or a smaller share must be given to the author.
 
      Example if the current authors are:
@@ -149,34 +160,38 @@ iii. when the share of an author are increased to a value decided by the
 
      - increasing the share of an author following rule (iii.). If the share
        of a surpervisor is increased, he does not take part to the voting for
-       this decision.
+       this decision. This increase must be justified by some activity in the
+       development of the software such as (but not limited to): new commit,
+       ideas to improve the software, promotion of the software. It is
+       recommanded to keep the history of share increase (see vi. below) and
+       this history together with the software. This rule forbid supervisors
+       that for no reason increase their own shares.
 
      - promoting an author to supervisor (which may be mandatory because of
        rule (iii.)
 
-     - selling the right to use the software to commercial organisation (see chapter
-       3 below).
+     - selling the right to use the software to commercial organisation (see
+       chapter 3 below).
 
   iv. Supervisors can not remove an author or supervisor from the list below
       nor decrease their share except when using rule (iii.). However, a
-      supervisor may decide to become an author and keep is share. If this
+      supervisor may decide to become an author and keep his share. If this
       violates rule (ii.) The minimum parts of his share are distributed among
       supervisors proportionally to their share so that rule (ii.) is
       respected.
 
-   v. Similarly an author can decide to become a simple contributor and its
-      share his shared among the remaining authors proportionaly to their
+   v. Similarly an author can decide to become a simple contributor and his
+      share are shared among the remaining authors proportionally to their
       share. If a supervisor decides to become a contributor, the computation
       of the shares must be made using first rule (iv) and then rule (v).
 
-  vi. In the case where a supervisor can not anymore participate to the decisions
-      about the software or in the case of the death of an author there are 2 rules
-      to follow:
+  vi. In the case where a supervisor can not anymore participate to the
+      decisions about the software or in the case of the death of an author
+      there are two rules to follow:
 
       - death: once the death of an author is established by the existing
-        legal means, rule (iv) and (v) are applied. This means that your share are
-        not transmissible to your heir as they do not constitute an ownership
-        for two reasons:
+        legal means, rule (iv.) and (v.) are applied. This means that the
+        share of an author are not transmissible to your heir for two reasons:
         . only contributors can have share in the software
 	. this licence do not permit owning or selling of the software itself
 
@@ -205,9 +220,13 @@ iii. when the share of an author are increased to a value decided by the
 3. Rules about commercial contracts & share are not property of the software
 
    i. The software under SANCAND or part of it can not be sold in any cases,
-      nor destroyed.  The supervisor must take reasonable measures to ensure
-      the security of the software files. For instance (but no limited to):
-      ensure local copies in the author's computers and some cloud storage.
+      destroyed or damaged. The supervisors must take reasonable measures to
+      ensure the security of the software files. For instance (but no limited
+      to): ensure local copies in the author's computers and some cloud
+      storage. A commit introducing a bug in the software is not considered to
+      be damaging the software if the commit can be undone. This means that it
+      is recommanded to use a version control system to manage software
+      protected by SANCAND.
 
   ii. Commercial contract that would grant exclusivity of use of the software
       or any form of restriction for later contract are not permitted by this
@@ -217,8 +236,9 @@ iii. when the share of an author are increased to a value decided by the
       software, which include the right to modify it but not the right to
       distribute these modifications. They are contract between the commercial
       organisation and the authors of the software at the time the contract is
-      signed. The financial counterpart of the contract must be shared among
-      authors proportionally to their share at the time the contract is signed.
+      signed. The financial counterpart, if any, of the contract must be
+      shared among authors proportionally to their share at the time the
+      contract is signed.
 
       If a contract is renewable, or if it enforces regular payments, it must
       be redacted to specify that these payments are done to the authors at
@@ -227,9 +247,7 @@ iii. when the share of an author are increased to a value decided by the
       This means that authors do not own the software, but they are entitled
       right in the future contract about the software, according to their
       share. This is not property of the software because an author can not
-      sell, destroy nor damage the software without violating this licence,
-      and property of a thing if often defined as the ability to sell and
-      destroy the thing.
+      sell, destroy nor damage the software without violating this licence.
 
       No other form of payment are permitted by this licence regarding the
       grant to use the software: all payment must be done to all authors at
@@ -240,7 +258,7 @@ iii. when the share of an author are increased to a value decided by the
       - selling formation
       - developing extension of the software for specific use of the
         commercial organisation (that may or may not be contributed to the
-        software).
+        software with some commit).
 
   iv. Author can not sell, transmit or give their share or part of their
       share of the software to anyone.
@@ -248,31 +266,34 @@ iii. when the share of an author are increased to a value decided by the
    v. Contributor grant the right to sign contract on their behalf to the
       supervisors. Supervisors must follow the above majority rule for
       decision. However, enough time and information must be given to all
-      authors to allow them to leave the project according to the chapter 2 if
-      they do not agree to the term of the contract. The list of authors used
-      in the contract must be established after this reasonable time has
-      expired.
+      authors to reviewn the contract, have it examined by a lawyer and to
+      allow them to leave the project according to the chapter 2 if they do
+      not agree to the term of the contract. The list of authors used in the
+      contract must be established after this reasonable time has expired.
 
 4. Limitations and Disclaimers.
 
- a. No trademark or patent rights held by Contributors are waived, abandoned,
-    surrendered, licensed or otherwise affected by this document.
- b. Contributors offers the software as-is and makes no representations or
-    warranties of any kind concerning the software, express, implied,
-    statutory or otherwise, including without limitation warranties of
-    title, merchantability, fitness for a particular purpose, non
-    infringement, or the absence of latent or other defects, accuracy, or
-    the present or absence of errors, whether or not discoverable, all to
-    the greatest extent permissible under applicable law.
- c. Contract to commercial organisation may include some warranties for the
-    software. But those are granted by the contract, not by this Licence.
- d. Contributors disclaims responsibility for clearing rights of other persons
-    that may apply to the software or any use thereof, including without
-    limitation any person's Copyright and Related Rights in the software.
-    Further, Contributors disclaims responsibility for obtaining any necessary
-    consents, permissions or other rights required for any use of the
-    software.
+   i. No trademark or patent rights held by Contributors are waived,
+      abandoned, surrendered, licensed or otherwise affected by this document.
 
+  ii. Contributors offers the software as-is and makes no representations or
+      warranties of any kind concerning the software, express, implied,
+      statutory or otherwise, including without limitation warranties of
+      title, merchantability, fitness for a particular purpose, non
+      infringement, or the absence of latent or other defects, accuracy, or
+      the present or absence of errors, whether or not discoverable, all to
+      the greatest extent permissible under applicable law.
+
+ iii. Contract to commercial organisation may include some warranties for the
+      software. But those are granted by the contract, not by this Licence.
+
+  iv. Contributors to the software protected by SANCAND understands and
+      acknowledges that the author of SANCAND is not a party to this document
+      and has no duty or obligation with respect to this SANCAND or use of the
+      software protected by it.
+
+
+The author(s) of the text of this licence decline
 Thanks: this licence borrow some paragraphs to the creative common licence.
 
 LIST OF CURRENT AUTHORS (date: )
