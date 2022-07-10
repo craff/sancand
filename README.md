@@ -18,7 +18,8 @@ It is a
 The goal of this licence is twofold:
 
 - enforce as much as possible the future of the software using some democratic rules and avoid (in fact forbid) fork of the software
-- bringing security to user of the software in particular commercial company buying the right to use the software.
+- bringing security to user of the software in particular commercial company buying the right to use the software. Tho this end, the 
+  licence it transformed automatically in an open source licence if the supervisors of the software "disapear".
 
 Last but not least: this licence should also allow a just remuneration of people that develop software outside of their primary job.
 
