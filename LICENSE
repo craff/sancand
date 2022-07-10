@@ -89,24 +89,27 @@ iii. the right to test the software for a commercial organisation. Testing
  iv. commercial organisation are allowed (and encouraged) to contact the
      supervisor(s) to buy the right to use the software. If no supervisor
      answers in 6 weeks, one may consider that all supervisors have been
-     lost and the software become open source following rule (2. vii.)
+     lost and the software become open source following rule (2. vii.).
 
   v. Contributors (or potential contributor) are granted the right to use the
      software and modify it privately. They are only allowed to submit commit
-     to the supervisor or exchange modifications between contributors. All
+     to the supervisors or exchange modifications between contributors. All
      modifications made public by another way is forbidden by this
-     SANCAND. Commit that were not accepted by the supervisor(s) may or may not
-     be left available for the public, this is the responsibility of the
+     SANCAND. Commit that were not accepted by the supervisor(s) may or may
+     not be left available for the public, this is the responsibility of the
      supervisor to take the decision to erase a rejected commit.
 
  vi. Another software, regardless to its own LICENCE, is not considered as a
      commercial organisation and may use the software protected by SANCAND as
-     an external compenent. By external, we mean that it may use the data and
+     an external component. External means that it may use the data and
      executable which are part of the software or link with library in the
-     software. However, commercial organisation that uses such a software that
-     depends upon the software protected by SANCAND directly or indirectly
-     have to but the right to use the protected software.
-
+     software. External also means that no data part of the software protected
+     by SANCAND is included within the software that uses it. However,
+     commercial organisation that uses such a software that depends upon the
+     software protected by SANCAND directly or indirectly have to buy the
+     right to use the protected software. It is the responsability of software
+     author than depends upon a software using SANCAND to make sure the
+     LICENCE they use is compatible with SANCAND.
 
 vii. These are the only rights granted by this licence. Distributing modified
      version of the software it not permitted in any cases.
