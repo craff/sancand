@@ -5,7 +5,7 @@ THIS IS A DRAFT LICENCE, CURRENTLY NOT EXAMINED BY ANY LAWYER! DO NOT USE IT YET
 CONTRIBUTION ARE WELCOME AS LONG AS THEY FOLLOW THE IDEA BELOW. IT YOU WANT OTHER KIND
 OF LICENCE, USE ANOTHER ONE!
 
-It is not a free software licence, it enforces very strong rule about the organisation of the development of the software
+It is not a free software licence, it enforces very strong rules about the organisation of the development of the software
 
 It is a 
 - source available software licence
@@ -17,8 +17,8 @@ It is a
 
 The goal of this licence is twofold:
 
-- enforce as much as possible the future of the software using some democratic rules and avoid (in fact forbid) fork of the software
-- bringing security to user of the software in particular commercial company buying the right to use the software. Tho this end, the 
+- warrant as much as possible the future of the software using some democratic rules and avoid (in fact forbid) fork of the software
+- bringing security to user of the software in particular commercial company buying the right to use the software. To this end, the 
   licence it transformed automatically in an open source licence if the supervisors of the software "disapear".
 
 Last but not least: this licence should also allow a just remuneration of people that develop software outside of their primary job.
