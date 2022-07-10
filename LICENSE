@@ -85,7 +85,9 @@ iii. the right to test the software for a commercial organisation. Testing
      of the company.
 
  iv. commercial company are allowed (and encouraged) to contact the
-     supervisor(s) to buy the right to use the software.
+     supervisor(s) to buy the right to use the software. If no supervisor
+     answers in 6 weeks, one may consider that all supervisors have been
+     lost and the software become open source following rule 2. vii.
 
   v. Contributors (or potential contributor) are granted the right to use the
      software and modify it privately. They are only allowed to submit commit
@@ -190,7 +192,7 @@ iii. when the share of an author are increased to a value decided by the
         decision among supervisors.
 
 
-  vi. If the software looses all his supervisors, it will become Open Source
+ vii. If the software looses all his supervisors, it will become Open Source
       software. The last surpervisor(s) may choose a free software licence, if
       they do not do so, the software will be distributed under the current
       version of the GPL LICENCE and/or LGPL LICENCE, the former applied to
