@@ -14,10 +14,15 @@ their spare time or are granted time to work on source available software by
 their company.
 
 This licence also enforces some rules about the evolution of the list of
-authors for two purposes:
-- securing the future of the software by enforcing decision rules.
-- securing company's or commercial organisation that would buy the right to
-  use the software under this licence.
+authors for three purposes:
+- securing the future of the software by enforcing democratic decision rules.
+- securing the authors regarding commercial use: they will always be entitled
+  to some remuneration, except if they explicitly abandon such a right or
+  if the software become free after a change of licence.
+- securing users of the software (in particular commercial organisation that
+  would buy the right to use the software protected SANCAND), for instance
+  by ensuring that future version of the software will always be available
+  to them.
 
 This licence is only applicable to software that makes all their source and
 data available (a.k.a. source available software), allowing examination for
@@ -48,9 +53,14 @@ damaging the software protected by SANCAND.
 
   iii. Contributor: an individual that contributed a commit and modified the
      software, even it the contribution has been completely replaced by more
-     recent commit. Contributor must be individual (not company) that are the
+     recent commits. Contributor must be individual (not company) that are the
      original author of the commit. Contributors are the copyright holder and
-     are entitled the right to enforce the application of this licence.
+     are entitled the right to enforce the application of this licence. The
+     complete list of contributors of the software must always be included
+     with the softwre. When the first commit of a contributor is accepted in
+     the software, he must be mentioned in the list of contributors in all
+     future versions, but he does not have to be mentioned in previous
+     versions.
 
   iv. Author: a potential benificiary of a commercial contract. They must be
      contributors. But not all contributors need to be author. An author may
