@@ -88,8 +88,8 @@ iii. the right to test the software for a commercial organisation. Testing
 
  iv. commercial organisation are allowed (and encouraged) to contact the
      supervisor(s) to buy the right to use the software. If no supervisor
-     answers in 6 weeks, one may consider that all supervisors have been
-     lost and the software become open source following rule (2. vii.).
+     answers in 6 weeks, one may consider that all supervisors have been lost
+     and the software will have to change licence following rule (2. viii.).
 
   v. Contributors (or potential contributor) are granted the right to use the
      software and modify it privately. They are only allowed to submit commit
@@ -103,13 +103,13 @@ iii. the right to test the software for a commercial organisation. Testing
      commercial organisation and may use the software protected by SANCAND as
      an external component. External means that it may use the data and
      executable which are part of the software or link with library in the
-     software. External also means that no data part of the software protected
-     by SANCAND is included within the software that uses it. However,
-     commercial organisation that uses such a software that depends upon the
-     software protected by SANCAND directly or indirectly have to buy the
-     right to use the protected software. It is the responsability of software
-     author than depends upon a software using SANCAND to make sure the
-     LICENCE they use is compatible with SANCAND.
+     software. External also means that no data or source code that are part
+     of the software protected by SANCAND are included within the software that
+     uses it. However, commercial organisation that uses such a software that
+     depends upon the software protected by SANCAND directly or indirectly
+     have to buy the right to use the protected software. It is the
+     responsability of software author than depends upon a software using
+     SANCAND to make sure the LICENCE they use is compatible with SANCAND.
 
 vii. These are the only rights granted by this licence. Distributing modified
      version of the software it not permitted in any cases.
@@ -212,14 +212,38 @@ iii. When the share of an author is increased to a value decided by the
         contact" a supervisor, the local law must be applied to reach a
         decision among supervisors.
 
+ vii. Supervisors may modify or change the software licence as long as three
+      conditions are respected:
+      - the new licence enforces that the source code of any future version of
+        the software will always be available for examination and testing.
+      - the new licence enforces that credit must be preserved for the list of
+        contributors (for instance if GPL 3.0 licence is used, additionnel
+        terms 7 (b) must be preserved and GPL 2.0 is not possible).
+      - the new licence is either open source software in the sence that any
+        one is allowed to use all future version of the software for free.
+      - or it should preserve the waranty that all authors will be allowed to
+	preserve their right for a just remuneration in case of any commercial
+	use of the software.
 
- vii. If the software looses all his supervisors, it will become Open Source
-      software. The last surpervisor(s) may choose a free software licence, if
-      they do not do so, the software will be distributed under the current
-      version of the GPL LICENCE and/or LGPL LICENCE, the former applied to
-      all software applications within the software and the latter applied to
-      software libraries among the software. The copyright will still be granted to
-      all contributors of the software.
+viii. If the software looses all his supervisors, it will have to change its
+      licence. The last surpervisor(s) may choose another licence as long as
+      it respcects rule (vii.). If they do not do so, the software will be
+      distributed under the current version of the GPL LICENCE and/or LGPL
+      LICENCE with if needed aditional terms to respect rule (vii.).  GPL will
+      apply to all software applications within the software and LGPL will
+      apply to software libraries among the software. The copyright will still
+      be granted to all contributors of the software.
+
+  ix. Splitting the project: if a project may be splitted in sub-components,
+      for instance (but not limited to) if a software library of general
+      interest can be developped separatly or if some data could be use
+      outside the project, the supervisors may decide to split the software in
+      several components. Initially each component will be protected by the
+      SANCAND licence and have the same authors and supervisors with the same
+      share as in the initial project. Authors can in a second time use the
+      rule of this chapter if they only want to be part of one
+      software. Supervisors may also change the licence of any of the new
+      components using rule (vii.).
 
 3. Rules about commercial contracts & share are not property of the software
 
@@ -270,7 +294,7 @@ iii. When the share of an author is increased to a value decided by the
    v. Contributor grant the right to sign contract on their behalf to the
       supervisors. Supervisors must follow the above majority rule for
       decision. However, enough time and information must be given to all
-      authors to reviewn the contract, have it examined by a lawyer and to
+      authors to review the contract, have it examined by a lawyer and to
       allow them to leave the project according to the chapter 2 if they do
       not agree to the term of the contract. The list of authors used in the
       contract must be established after this reasonable time has expired.
